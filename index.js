@@ -24,12 +24,8 @@ var number = 10
   return (n+1)
 }
 
-function dec(n)
+function preserveDecimal(n)
 {
-  return (n-1)
+  return 
 }
 
-function makeInt(n)
-{
-  return parseInt(n,10)
-}
