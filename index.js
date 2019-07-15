@@ -21,5 +21,5 @@ function divide(a,b)
 var number = 160
  
 function inc(n) {
-  number += 10
+  number += 11
 }
