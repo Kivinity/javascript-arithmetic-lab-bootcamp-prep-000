@@ -18,8 +18,8 @@ function divide(a,b)
   return a/b
 }
 
-var number = 10
+var number = 160
  
 function inc(n) {
-  number += 5
+  number += 10
 }
