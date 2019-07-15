@@ -18,7 +18,7 @@ function divide(a,b)
   return a/b
 }
 
-var number = 5
+var number = 10
   function inc(n)
 {
   return (n+1)
@@ -29,3 +29,7 @@ function dec(n)
   return (n-1)
 }
 
+function makeInt(n)
+{
+  return 
+}
