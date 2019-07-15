@@ -20,4 +20,4 @@ function divide(a,b)
 
 var number = 5
   function inc(n)
-number++
+  (n)++
