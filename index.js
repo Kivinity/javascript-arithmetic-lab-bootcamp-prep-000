@@ -18,8 +18,7 @@ function divide(a,b)
   return a/b
 }
 
-var number = 160
  
 function inc(n) {
-  number += 11
+  number += 1
 }
