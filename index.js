@@ -20,4 +20,6 @@ function divide(a,b)
 
 var number = 5
   function inc(n)
-  (n)++
+{
+  return (n)++
+}
